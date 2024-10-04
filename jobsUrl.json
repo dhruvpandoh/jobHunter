@@ -1,0 +1,28 @@
+[
+    {
+        "Name": "developer",
+        "jobLink":[
+            {
+                "url":"https://in.indeed.com/jobs?q=developer+fresher&l="
+            },
+            {
+                "url":"https://www.flexjobs.com/search?search=developer&search=&location="
+            }
+            
+        ]
+    },
+    {
+        "Name":"graphic_designer",
+        "jobLink":[
+            {
+                "url":"https://in.indeed.com/jobs?q=graphic%20designer&l="
+            },
+            {
+                "url":"https://www.flexjobs.com/search?search=&search=graphics&location="
+            }
+            
+            
+        ]
+    }
+
+]
